@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Live project link - https://quirky-lamarr-aa3630.netlify.com/
+
 ## For facebook login, login to developers.facebook and create and configure your app and get the app id.
 ## For google login, login to console.developers.google.com and create and configure your app and get the oath client id and google secret.(Btw we do not need google secret for this)
 
