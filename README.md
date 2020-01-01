@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## For facebook login, login to developers.facebook and create and configure your app and get the app id.
+## For google login, login to console.developers.google.com and create and configure your app and get the oath client id and google secret.(Btw we do not need google secret for this)
+
 ## Available Scripts
 
 In the project directory, you can run:
